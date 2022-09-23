@@ -1,1 +1,2 @@
 checking git commands
+Adding sometext to check pull request/merge request
